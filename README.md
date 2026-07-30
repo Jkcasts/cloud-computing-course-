@@ -22,10 +22,10 @@ This repository serves as my organized workspace for all course requirements, in
 
 ```text
 cloud-computing-course/
-├── activities/.gitkeep
-├── projects/.gitkeep
-├── notes/.gitkeep
-├── reflections/.gitkeep
+├── activities/README.md
+├── projects/README.md
+├── notes/README.md
+├── reflections/README.md
 └── README.md
 ```
 
