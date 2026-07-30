@@ -1,1 +1,30 @@
+Reflection on Cloud Computing Concepts and Version Control
+
+Cloud computing has become an important part of everyday life, supporting applications used for communication, productivity, creativity, and financial transactions. Three cloud-based services I frequently use are Google Drive, Canva, and GCash.
+
+Service and Deployment Models
+
+1. Google Drive
+
+Service Model: Software as a Service (SaaS) – Google Drive lets users store, organize, and edit files through a web browser or mobile application without managing servers or software.
+
+Deployment Model: Public Cloud – It is hosted on Google's cloud infrastructure and provides services to millions of users over the internet.
+
+2. Canva
+
+Service Model: Software as a Service (SaaS) – Canva offers online graphic design tools that users can access without installing software.
+
+Deployment Model: Public Cloud – Its services are delivered through public cloud infrastructure, making them available worldwide.
+
+3. GCash
+
+Service Model: Software as a Service (SaaS) – GCash provides digital financial services, including online payments, money transfers, and mobile banking.
+
+Deployment Model: Hybrid Cloud – It combines public cloud services with secure private systems to protect sensitive financial data and meet regulatory requirements.
+
+Git and GitHub for Cloud Projects
+
+Version control is essential in cloud computing because cloud infrastructure is often managed as Infrastructure as Code (IaC). Storing configurations in Git repositories helps maintain consistent and reliable deployments across environments.
+
+GitHub supports collaboration through pull requests, branch protection, and code reviews. These features help teams detect errors before deployment and improve security. GitHub also records every change, making it easier to identify modifications, restore previous versions, and maintain accountability. Using Git and GitHub with cloud infrastructure improves reliability, transparency, collaboration, and efficient management of cloud-based projects.
 
